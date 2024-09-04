@@ -6,3 +6,10 @@
 Link - https://github.com/barirahzainalabidin/Trip-Advisor-Hotel-Reviews
 
 Deployment - https://trip-advisor-hotel-reviews-recommendation.streamlit.app/
+
+
+# 2.  Binary Classification of Insurance Cross Selling
+
+Link - https://github.com/barirahzainalabidin/Binary-Classification-of-Insurance-Cross-Selling
+
+
