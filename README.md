@@ -1,7 +1,7 @@
 # My_Project_Lists
 
 
-# 1. Trip Advisor Hotel Review
+# 1. Trip Advisor Hotel Review ( NLP )
 
 Link - https://github.com/barirahzainalabidin/Trip-Advisor-Hotel-Reviews
 
@@ -31,3 +31,8 @@ Link - https://github.com/barirahzainalabidin/Titanic-Machine-Learning-from-Disa
 # 6. Store Sales - Time Series Forecasting
 
 Link - https://github.com/barirahzainalabidin/Store-Sales-Time-Series-Forecasting
+
+
+# 7. Learning Agency Lab - Automated Essay Scoring 2.0
+
+Link - https://github.com/barirahzainalabidin/Learning-Agency-Lab---Automated-Essay-Scoring-2.0/tree/main
