@@ -30,4 +30,4 @@ Link - https://github.com/barirahzainalabidin/Titanic-Machine-Learning-from-Disa
 
 # 6. Store Sales - Time Series Forecasting
 
-Link - 
+Link - https://github.com/barirahzainalabidin/Store-Sales-Time-Series-Forecasting
