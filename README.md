@@ -36,3 +36,8 @@ Link - https://github.com/barirahzainalabidin/Store-Sales-Time-Series-Forecastin
 # 7. Learning Agency Lab - Automated Essay Scoring 2.0
 
 Link - https://github.com/barirahzainalabidin/Learning-Agency-Lab---Automated-Essay-Scoring-2.0/tree/main
+
+
+# 8. LMSYS - Chatbot Arena Human Preference Predictions
+
+Link - https://github.com/barirahzainalabidin/LMSYS-Chatbot-Arena-Human-Preference/tree/main?tab=readme-ov-file
