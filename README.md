@@ -18,3 +18,11 @@ Link - https://github.com/barirahzainalabidin/Binary-Classification-of-Insurance
 Link - https://github.com/barirahzainalabidin/ISIC-2024---Skin-Cancer-Detection-with-3D-TBP/tree/main
 
 
+# 4. Regression Of Used Car Prices
+
+Link - https://github.com/barirahzainalabidin/Regression-of-Used-Car-Prices/tree/main
+
+
+# 5. Titanic - Machine Learning from Disaster
+
+Link - https://github.com/barirahzainalabidin/Titanic-Machine-Learning-from-Disaster
