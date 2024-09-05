@@ -26,3 +26,8 @@ Link - https://github.com/barirahzainalabidin/Regression-of-Used-Car-Prices/tree
 # 5. Titanic - Machine Learning from Disaster
 
 Link - https://github.com/barirahzainalabidin/Titanic-Machine-Learning-from-Disaster
+
+
+# 6. Store Sales - Time Series Forecasting
+
+Link - 
