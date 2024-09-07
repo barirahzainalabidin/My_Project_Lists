@@ -41,3 +41,8 @@ Link - https://github.com/barirahzainalabidin/Learning-Agency-Lab---Automated-Es
 # 8. LMSYS - Chatbot Arena Human Preference Predictions
 
 Link - https://github.com/barirahzainalabidin/LMSYS-Chatbot-Arena-Human-Preference/tree/main?tab=readme-ov-file
+
+
+# 9. RSNA 2024 Lumbar Spine Degenerative Classification
+
+Link - 
