@@ -46,3 +46,25 @@ Link - https://github.com/barirahzainalabidin/LMSYS-Chatbot-Arena-Human-Preferen
 # 9. RSNA 2024 Lumbar Spine Degenerative Classification
 
 Link - https://github.com/barirahzainalabidin/RSNA-2024-Lumbar-Spine-Degenerative-Classification/tree/main
+
+
+# 10. Santander Customer Transaction Prediction
+
+Link - https://github.com/barirahzainalabidin/Santander-Customer-Transaction-Prediction
+
+
+# 11. Chatbot integrated with openai chatgpt 4.0 & 3.5 turbo
+
+File Link - https://github.com/shasha0982/chatbot_test_1?tab=readme-ov-file
+
+Deployment App - https://chatbottest1-cowa73db6wsvkxrcvzhgnv.streamlit.app/
+
+
+# 12.  MYSQL - AI
+
+ Link - https://data-analysis-ai-official.streamlit.app/
+ 
+
+ # 13. My First Chatbot Alycyn - Ask Anything !
+
+ Link - https://alyncyn-ai-official.streamlit.app/
