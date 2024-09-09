@@ -53,11 +53,3 @@ Link - https://github.com/barirahzainalabidin/RSNA-2024-Lumbar-Spine-Degenerativ
 Link - https://github.com/barirahzainalabidin/Santander-Customer-Transaction-Prediction
 
 
-# 11.  MYSQL - AI
-
- Link - https://data-analysis-ai-official.streamlit.app/
- 
-
- # 12. My First Chatbot Alycyn - Ask Anything !
-
- Link - https://alyncyn-ai-official.streamlit.app/
