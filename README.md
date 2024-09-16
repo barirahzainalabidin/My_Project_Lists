@@ -29,6 +29,19 @@ Link - https://github.com/barirahzainalabidin/Time-Series-Analysis
 # 9). Analyze Text Data & Natural Language Processing (NLP)
 
 
+Train ChatGPT 3.5 - https://github.com/barirahzainalabidin/Train-chatgpt-3.5
+
+Text To Text Generation Using Huggingface Model - https://github.com/barirahzainalabidin/Text-To-Text-Generation
+
+Hugging Face Projects - https://github.com/barirahzainalabidin/Hugging-Face-Projects
+
+Translation Use ChatGPT 3.5 - https://github.com/barirahzainalabidin/Translation-With-Chatgpt-3.5/tree/main
+
+
+Coming soon ChatGPT 4.0o 
+
+
+
 # 10). Image Content Analysis
 
 
