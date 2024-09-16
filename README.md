@@ -26,7 +26,7 @@ Link - https://github.com/barirahzainalabidin/Time-Series-Analysis
 # 8) Search Ranking System
 
 
-# 9). Analyze Text Data & Natural Language Processing (NLP)
+# 9). Natural Language Processing (NLP)
 
 
 Train ChatGPT 3.5 - https://github.com/barirahzainalabidin/Train-chatgpt-3.5
@@ -52,4 +52,7 @@ Natural Language Processing ( NLP ) - https://github.com/barirahzainalabidin/Nat
 
 
 # 12). Neural Network
+
+
+# 13). Analyze Text Data
 
