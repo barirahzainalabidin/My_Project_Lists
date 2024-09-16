@@ -60,3 +60,6 @@ Natural Language Processing ( NLP ) - https://github.com/barirahzainalabidin/Nat
 
 # 12). Analyze Text Data
 
+
+Link - https://github.com/barirahzainalabidin/Analyze-Text-Data/tree/main
+
