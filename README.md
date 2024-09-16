@@ -6,22 +6,29 @@
 Link - https://github.com/barirahzainalabidin/Time-Series-Analysis
 
 
-# 2). Predictive modelling
+# 2). Classification
 
 
-# 3). Clustering
+
+# 3). Predictive modelling
 
 
-# 4). Recommendation System 
+Link - https://github.com/barirahzainalabidin/Predictive-Modelling
 
 
-# 5). Feed Ranking System
+# 4). Clustering
 
 
-# 6) Search Ranking System
+# 5). Recommendation System 
 
 
-# 7). Natural Language Processing (NLP)
+# 6). Feed Ranking System
+
+
+# 7) Search Ranking System
+
+
+# 8). Natural Language Processing (NLP)
 
 
 Train ChatGPT 3.5 - https://github.com/barirahzainalabidin/Train-chatgpt-3.5
@@ -40,14 +47,14 @@ Natural Language Processing ( NLP ) - https://github.com/barirahzainalabidin/Nat
 
 
 
-# 8). Image Content Analysis
+# 9). Image Content Analysis
 
 
-# 9). Biometric Face Recognition
+# 10). Biometric Face Recognition
 
 
-# 10). Neural Network
+# 11). Neural Network
 
 
-# 11). Analyze Text Data
+# 12). Analyze Text Data
 
