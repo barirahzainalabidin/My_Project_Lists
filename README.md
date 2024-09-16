@@ -41,6 +41,9 @@ Translation Use ChatGPT 3.5 - https://github.com/barirahzainalabidin/Translation
 Coming soon ChatGPT 4.0o 
 
 
+Natural Language Processing ( NLP ) - https://github.com/barirahzainalabidin/Natural-Language-Processing-NLP
+
+
 
 # 10). Image Content Analysis
 
