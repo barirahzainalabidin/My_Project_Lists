@@ -9,6 +9,8 @@ Link - https://github.com/barirahzainalabidin/Time-Series-Analysis
 # 2). Classification
 
 
+Link - https://github.com/barirahzainalabidin/Classification/tree/main
+
 
 # 3). Predictive modelling
 
