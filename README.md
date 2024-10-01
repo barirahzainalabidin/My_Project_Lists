@@ -3,34 +3,89 @@
 
 # 1). Time Series 
 
-Link - https://github.com/barirahzainalabidin/Time-Series-Analysis
+
+# ✅ Rohlik Orders Forecasting Challenge
+
+---> https://github.com/barirahzainalabidin/Time-Series-Analysis/blob/main/
 
 
 # 2). Classification
 
 
-Link - https://github.com/barirahzainalabidin/Classification/tree/main
+# ✅ RSNA 2024 Lumbar Spine Degenerative Classification
+
+
+--->  https://www.kaggle.com/code/barirahzainal/my-project-rsna-2024-submission-2
+
+
+# ✅ ISIC 2024 - Skin Cancer Detection with 3D-TBP
+
+
+--->  https://www.kaggle.com/code/barirahzainal/my-project-isic-2024-submission-8-0-120
+
 
 
 # 3). Predictive modelling
 
 
-Link - https://github.com/barirahzainalabidin/Predictive-Modelling
+# ✅ Collection Github
+
+---> https://github.com/barirahzainalabidin/Predictive-Modelling
+
+
+
+# ✅ Binary Classification of Insurance Cross Selling
+
+---> https://www.kaggle.com/code/barirahzainal/binary-classification-of-insurance
+
+
+
+# ✅ LMSYS - Chatbot Arena Human Preference Predictions
+
+---> https://github.com/barirahzainalabidin/LMSYS-Chatbot-Arena-Human-Preference/tree/main
+
+
+
+# ✅ Regression of Used Car Prices
+
+
+---> https://github.com/barirahzainalabidin/Regression-of-Used-Car-Prices
+
+
+
+# ✅ Titanic - Machine Learning from Disaster
+
+
+---> https://github.com/barirahzainalabidin/Titanic-Machine-Learning-from-Disaster
+
 
 
 # 4). Clustering
 
 
-# 5). Recommendation System 
+# ✅ Jigsaw Rate Severity of Toxic Comments  
+
+---> https://github.com/barirahzainalabidin/Jigsaw-Rate-Severity-of-Toxic-Comments
 
 
-# 6). Feed Ranking System
+
+# 5). Recommendation System , Feed Ranking, Click Search 
 
 
-# 7) Search Ranking System
+# ✅  Home Depot Product Search Relevance ( Click Search & Recommendation )
+
+---> https://www.kaggle.com/code/barirahzainal/home-depot-product-search-recommendation
 
 
-# 8). Natural Language Processing (NLP)
+
+# ✅ Learning Equality - Curriculum Recommendations ( Recommendation )
+
+
+---> https://www.kaggle.com/code/barirahzainal/learning-equality-recommendation
+
+
+
+# 5). NLP, Open AI & Hugging Face Model
 
 
 Train ChatGPT 3.5 - https://github.com/barirahzainalabidin/Train-chatgpt-3.5
@@ -41,25 +96,62 @@ Hugging Face Projects - https://github.com/barirahzainalabidin/Hugging-Face-Proj
 
 Translation Use ChatGPT 3.5 - https://github.com/barirahzainalabidin/Translation-With-Chatgpt-3.5/tree/main
 
+Natural Language Processing ( NLP ) - https://github.com/barirahzainalabidin/Natural-Language-Processing-NLP
 
 Coming soon ChatGPT 4.0o 
 
 
-Natural Language Processing ( NLP ) - https://github.com/barirahzainalabidin/Natural-Language-Processing-NLP
+
+# 6). Predictive Modelling Using BERT Model HuggingFace / Kaggle
+
+
+# ✅ Learning Equality - Curriculum Recommendations 
+
+---> https://github.com/barirahzainalabidin/Learning-Equality-Curriculum-Recommendations
+
+
+# ✅ Learning Agency Lab - Automated Essay Scoring 2.0
+
+
+---> https://www.kaggle.com/code/barirahzainal/my-learning-agency-lab-subs-8
 
 
 
-# 9). Image Content Analysis
+# 7). Predictive Modelling Using DEBERTA Model HuggingFace / Kaggle
 
 
-# 10). Biometric Face Recognition
+---> https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-sub-3
 
 
-# 11). Neural Network
+# 8). Neural Network
 
 
-# 12). Analyze Text Data
+# ✅ Jigsaw Rate Severity of Toxic Comments  
+
+---> https://github.com/barirahzainalabidin/Jigsaw-Rate-Severity-of-Toxic-Comments/tree/main
 
 
-Link - https://github.com/barirahzainalabidin/Analyze-Text-Data/tree/main
+# ✅  Home Depot Product Search Relevance
+
+---> https://github.com/barirahzainalabidin/Home-Depot-Product-Search-Relevance
+
+
+
+# 9). Analyze Text Data
+
+
+# ✅ Eedi - Mining Misconceptions in Mathematics
+
+---> https://www.kaggle.com/code/barirahzainal/tutorial-eedi-mining-for-beginner
+
+
+# ✅ Trip Advisor Hotel Reviews
+
+---> https://www.kaggle.com/code/barirahzainal/trip-advisor-hotel-reviews
+
+
+# ✅  Child Mind Institute — Problematic Internet Use
+
+
+---> https://www.kaggle.com/code/barirahzainal/problematic-internet-use-for-beginner
 
