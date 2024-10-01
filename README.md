@@ -69,7 +69,7 @@
 
 
 
-# 5). Recommendation System , Feed Ranking, Click Search 
+# 5). Recommendation System , Feed Ranking, Search Ranking, Click Through Rate 
 
 
 # ✅  Home Depot Product Search Relevance ( Click Search & Recommendation )
@@ -154,4 +154,8 @@ Coming soon ChatGPT 4.0o
 
 
 ---> https://www.kaggle.com/code/barirahzainal/problematic-internet-use-for-beginner
+
+
+
+# 10). Detection Fraud Modelling
 
