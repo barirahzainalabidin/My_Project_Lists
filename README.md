@@ -189,5 +189,6 @@ Coming soon ChatGPT 4.0o
 
 
 
-# 12). Voice / Speech Assitant Open AI
+
+# 12). Voice / Speech Assistant Open AI
 
