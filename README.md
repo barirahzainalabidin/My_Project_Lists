@@ -69,6 +69,13 @@
 
 
 
+# ✅ Inclusion・The Global Multimedia Deepfake Detection  
+
+---> https://github.com/barirahzainalabidin/Inclusion-The-Global-Multimedia-Deepfake-Detection/tree/main
+
+
+
+
 # 5). Recommendation System , Feed Ranking, Search Ranking, Click Through Rate 
 
 
@@ -123,12 +130,18 @@ Coming soon ChatGPT 4.0o
 ---> https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-sub-3
 
 
+
 # 8). Neural Network
 
 
 # ✅ Jigsaw Rate Severity of Toxic Comments  
 
 ---> https://github.com/barirahzainalabidin/Jigsaw-Rate-Severity-of-Toxic-Comments/tree/main
+
+
+# ✅ Inclusion・The Global Multimedia Deepfake Detection  
+
+---> https://github.com/barirahzainalabidin/Inclusion-The-Global-Multimedia-Deepfake-Detection/tree/main
 
 
 # ✅  Home Depot Product Search Relevance
@@ -167,6 +180,13 @@ Coming soon ChatGPT 4.0o
 # ✅  Bird CLEF 2024
 
 ----> https://github.com/barirahzainalabidin/BirdCLEF-2024/tree/main
+
+
+
+# ✅ Inclusion・The Global Multimedia Deepfake Detection  
+
+---> https://github.com/barirahzainalabidin/Inclusion-The-Global-Multimedia-Deepfake-Detection/tree/main
+
 
 
 # 12). Voice / Speech Assitant Open AI
