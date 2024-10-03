@@ -159,3 +159,15 @@ Coming soon ChatGPT 4.0o
 
 # 10). Detection Fraud Modelling
 
+
+
+# 11). Audio Speech Recognition 
+
+
+# ✅  Bird CLEF 2024
+
+----> https://github.com/barirahzainalabidin/BirdCLEF-2024/tree/main
+
+
+# 12). Voice / Speech Assitant Open AI
+
