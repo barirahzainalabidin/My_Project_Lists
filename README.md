@@ -198,3 +198,8 @@ Coming soon ChatGPT 4.0o
 ----> https://github.com/barirahzainalabidin/Gemini-Speech-To-Text-Assistant
 
 
+
+# 13. Whispers Open AI
+
+
+---> https://github.com/barirahzainalabidin/Arabic-Natural-Audio/tree/main
