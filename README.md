@@ -202,4 +202,13 @@ Coming soon ChatGPT 4.0o
 # 13. Whispers Open AI
 
 
+# ✅ Arabic Natural Audio Dataset
+
 ---> https://github.com/barirahzainalabidin/Arabic-Natural-Audio/tree/main
+
+
+
+# 14. Microsoft Azure
+
+
+---> https://github.com/barirahzainalabidin/Language-Cognitive-Azure
