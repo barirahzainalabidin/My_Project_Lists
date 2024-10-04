@@ -75,7 +75,6 @@
 
 
 
-
 # 5). Recommendation System , Feed Ranking, Search Ranking, Click Through Rate 
 
 
@@ -89,23 +88,6 @@
 
 
 ---> https://www.kaggle.com/code/barirahzainal/learning-equality-recommendation
-
-
-
-# 5). NLP, Open AI & Hugging Face Model
-
-
-Train ChatGPT 3.5 - https://github.com/barirahzainalabidin/Train-chatgpt-3.5
-
-Text To Text Generation Using Huggingface Model - https://github.com/barirahzainalabidin/Text-To-Text-Generation
-
-Hugging Face Projects - https://github.com/barirahzainalabidin/Hugging-Face-Projects
-
-Translation Use ChatGPT 3.5 - https://github.com/barirahzainalabidin/Translation-With-Chatgpt-3.5/tree/main
-
-Natural Language Processing ( NLP ) - https://github.com/barirahzainalabidin/Natural-Language-Processing-NLP
-
-Coming soon ChatGPT 4.0o 
 
 
 
@@ -186,7 +168,6 @@ Coming soon ChatGPT 4.0o
 # ✅ Inclusion・The Global Multimedia Deepfake Detection  
 
 ---> https://github.com/barirahzainalabidin/Inclusion-The-Global-Multimedia-Deepfake-Detection/tree/main
-
 
 
 
