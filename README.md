@@ -190,5 +190,11 @@ Coming soon ChatGPT 4.0o
 
 
 
-# 12). Voice / Speech Assistant Open AI
+# 12). Voice / Speech Assistant Open AI & GEMINI AI
+
+
+# ✅ Gemini Speech To Text Assistant
+
+----> https://github.com/barirahzainalabidin/Gemini-Speech-To-Text-Assistant
+
 
