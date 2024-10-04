@@ -208,7 +208,7 @@ Coming soon ChatGPT 4.0o
 
 
 
-# 14. Microsoft Azure
+# 14. Microsoft Azure AI
 
 
 # ✅ Language Cognitive 
