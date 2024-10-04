@@ -211,4 +211,6 @@ Coming soon ChatGPT 4.0o
 # 14. Microsoft Azure
 
 
+# ✅ Language Cognitive 
+
 ---> https://github.com/barirahzainalabidin/Language-Cognitive-Azure
