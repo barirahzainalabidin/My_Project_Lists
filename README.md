@@ -1,5 +1,49 @@
-# My_Project_Lists
+# Model AI Lists
 
+
+# ✅ Google Model YAMNET 
+
+---> https://www.kaggle.com/models/google/yamnet/TensorFlow2/yamnet/1
+
+
+# ✅ Huggingface
+
+---> https://huggingface.co/models
+
+
+# ✅ BERT
+
+---> https://www.kaggle.com/models/keras/bert
+
+
+# ✅ CHATGPT OPEN AI 
+
+
+---> https://openai.com/
+
+
+# ✅ Google Model GEMINI
+
+
+---> https://ai.google.dev/
+
+
+# ✅ Google Model GEMMA 
+
+
+---> https://www.kaggle.com/models/google/gemma
+
+
+
+# AutoML
+
+
+# ✅ pyCaret
+
+# ✅ h2o
+
+
+# My_Project_Lists
 
 # 1). Time Series 
 
@@ -157,11 +201,6 @@
 
 
 # 11). Audio Speech Recognition 
-
-
-# ✅ Google Model YAMNET 
-
----> https://www.kaggle.com/models/google/yamnet/TensorFlow2/yamnet/1
 
 
 # ✅  Bird CLEF 2024
