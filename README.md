@@ -159,6 +159,11 @@
 # 11). Audio Speech Recognition 
 
 
+# ✅ Google Model YAMNET 
+
+---> https://www.kaggle.com/models/google/yamnet/TensorFlow2/yamnet/1
+
+
 # ✅  Bird CLEF 2024
 
 ----> https://github.com/barirahzainalabidin/BirdCLEF-2024/tree/main
@@ -168,6 +173,12 @@
 # ✅ Inclusion・The Global Multimedia Deepfake Detection  
 
 ---> https://github.com/barirahzainalabidin/Inclusion-The-Global-Multimedia-Deepfake-Detection/tree/main
+
+
+# ✅  RAVDESS Emotional Speech Audio
+
+
+---> https://github.com/barirahzainalabidin/RAVDESS-Emotional-Speech-Audio/tree/main
 
 
 
