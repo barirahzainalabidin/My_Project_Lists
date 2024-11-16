@@ -192,11 +192,3 @@
 
 ---> https://github.com/barirahzainalabidin/Arabic-Natural-Audio/tree/main
 
-
-
-# 14. Microsoft Azure AI
-
-
-# ✅ Language Cognitive 
-
----> https://github.com/barirahzainalabidin/Language-Cognitive-Azure
