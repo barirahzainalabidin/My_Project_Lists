@@ -154,6 +154,11 @@
 # 10). Detection Fraud Modelling
 
 
+# ✅ IEEE-CIS Fraud Detection
+
+
+ ---> https://www.kaggle.com/code/barirahzainal/ieee-cis-fraud-detection-0-90
+
 
 # 11). Audio Speech Recognition 
 
